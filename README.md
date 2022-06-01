@@ -2,8 +2,8 @@
 
 
 [![Status](https://img.shields.io/badge/status-active-success.svg)]()
-[![GitHub Issues](https://img.shields.io/github/issues/vitostamatti/tabular-transformers.svg)](https://github.com/vitostamatti/tabular-transformers/issues)
-[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/vitostamatti/tabular-transformers.svg)](https://github.com/vitostamatti/tabular-transformers/pulls)
+[![GitHub Issues](https://img.shields.io/github/issues/vitostamatti/sklearn-stacking-transformers.svg)](https://github.com/vitostamatti/sklearn-stacking-transformers/issues)
+[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/vitostamatti/sklearn-stacking-transformers.svg)](https://github.com/vitostamatti/sklearn-stacking-transformers/pulls)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
 
 
