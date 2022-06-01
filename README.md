@@ -85,11 +85,11 @@ usage for each object in this repo.
 - [Classification](/notebooks/stacking_regression_example.ipynb) 
 
 
-You can also take a look of the source code [here](/src/stacking_transformer.py))
+You can also take a look of the source code [here](/src/stacking_transformer.py)
 
 ## Roadmap
 
-- [ ] First commit of sklearn-stacking-transformers.
+- [X] First commit of sklearn-stacking-transformers.
 - [ ] Clean up RegressionStackingTransformer
 - [ ] Finish ClassificationStackingTransformer.
 - [ ] Complete documentation of examples notebooks.
