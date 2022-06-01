@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2022 skleran-stacking-transformers
+Copyright (c) 2022 sklearn-stacking-transformers
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
