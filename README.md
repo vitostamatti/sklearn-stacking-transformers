@@ -91,10 +91,10 @@ You can also take a look of the source code [here](/src/stacking_transformer.py)
 ## Roadmap
 
 - [X] First commit of sklearn-stacking-transformers.
-- [ ] Clean up RegressionStackingTransformer
-- [ ] Finish ClassificationStackingTransformer.
+- [X] Clean up RegressionStackingTransformer
+- [X] Finish ClassificationStackingTransformer.
 - [ ] Complete documentation of examples notebooks.
-
+- [ ] Creat setup to make it pip installable.
 
 
 ## License
