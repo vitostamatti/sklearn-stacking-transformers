@@ -85,7 +85,7 @@ usage for each object in this repo.
 - [Classification](/notebooks/stacking_regression_example.ipynb) 
 
 
-You can also take a look of the source code [here](/src/stacking_transformer.py)
+You can also take a look of the source code [here](/stacking_transformer/stacking_transformer.py)
 
 
 
